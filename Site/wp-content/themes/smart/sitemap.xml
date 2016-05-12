@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+	xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">	
+	<url>
+		<loc>http://www.smartboards.com.co/index.php</loc> 
+		<image:image>
+			<image:loc>http://smartboards.com.co/wp-content/themes/smart/images/encabezado.png"></image:loc>
+			<image:caption>HITACHI, Panasonic, Claryicon, Promethean, PolyVision, Qomo, eBeam, Mimio, Plus</image:caption>
+			<image:loc>http://smartboards.com.co/wp-content/themes/smart/images/canvas-copia.png</image:loc>
+			<image:caption>Pantallas interactivas</image:caption>
+			<image:loc>http://smartboards.com.co/wp-content/themes/smart/images/smartboards_03.png</image:loc>
+			<image:caption>Tableros interactivos</image:caption>
+			<image:loc>http://smartboards.com.co/wp-content/themes/smart/images/cost.png</image:loc>
+			<image:caption>Precios pantallas interactivas</image:caption>
+    </image:image>
+	</url>
+</urlset>

@@ -1,0 +1,3 @@
+User-agent: Googlebot
+Disallow: /http://pizarrasinteractivas.com.mx/wp-admin/
+Sitemap: http://www.pizarrasinteractivas.com.mx/sitemap.xml

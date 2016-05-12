@@ -1,0 +1,2 @@
+[22-Feb-2016 20:39:46 UTC] PHP Warning:  require(/home/puk4/public_html/smartboards.com.co/wp-includes/random_compat/random.php): failed to open stream: No such file or directory in /home/puk4/public_html/smartboards.com.co/wp-includes/compat.php on line 338
+[22-Feb-2016 20:39:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/puk4/public_html/smartboards.com.co/wp-includes/random_compat/random.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/puk4/public_html/smartboards.com.co/wp-includes/compat.php on line 338

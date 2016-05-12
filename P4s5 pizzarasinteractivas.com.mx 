@@ -1,0 +1,10 @@
+FTP Acces
+	Server = ftp.tablerointeractivo.info
+	Port = 21
+	User = pizarrasinteractivas@tablerointeractivo.info
+	Password = M07;sk$Z3H)0
+
+Wordpress Admin
+	User = admin
+	Password = P!z4r|zb04m|3B
+	Panel = www.pizarrasinteractivas.com.mx/wp-admin
